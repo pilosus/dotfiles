@@ -21,6 +21,8 @@ expanding it with email packages config as needed.
 
 `.gitconfig` used for Git configuration including setting aliases for `git` command.
 
+![Git](https://imgs.xkcd.com/comics/git.png)
+
 ### Bash ###
 
 `.bashrc` used by Bash shells to export environment variables,
@@ -35,6 +37,8 @@ On GNU/Linux machines I prefer lightweight tiling window managers like
 
 All my systems run with `runlevel 3`, so whenever I need GUI I run X
 server with `startx` (or `xinit -- :1`).
+
+![Xorg](https://imgs.xkcd.com/comics/x11.png)
 
 `.xinitrc` is a shell script run when `startx` invoked on a
 [per-user basis](https://wiki.archlinux.org/index.php/Xinit).
@@ -51,3 +55,11 @@ using for the laptop keyboard.
 
 `.xbindkeysrc` keeps keybinding that have been identified with
 `xbindkeys -k`.
+
+### Credits ###
+
+These dotfiles could not be written without help of all these
+wonderful people helping on StackOverflow, in the mailing-list, etc.
+
+Also, [xkcd](https://xkcd.com/) is awesome. First, go check out my
+`.emacs`, then `xkcd`.
