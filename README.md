@@ -21,14 +21,14 @@ expanding it with email packages config as needed.
 
 `.gitconfig` used for Git configuration including setting aliases for `git` command.
 
-![Git](https://imgs.xkcd.com/comics/git.png)
+![Using git](https://imgs.xkcd.com/comics/git.png)
 
 ### Bash ###
 
 `.bashrc` used by Bash shells to export environment variables,
 aliases, update `$PATH`, modify shell prompt, etc. on startup.
 
-![](https://imgs.xkcd.com/comics/universal_install_script.png)
+![Shell install script](https://imgs.xkcd.com/comics/universal_install_script.png)
 
 ### Xorg ###
 
