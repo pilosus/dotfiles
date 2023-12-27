@@ -1,0 +1,11 @@
+# -*- mode: gitignore; -*-
+## Repositories with secrets/credentials. Don't add to index!
+ansible/
+aws/
+gpg/
+pypi/
+ssh/
+
+## Emacs-specific
+*~
+\#*\#

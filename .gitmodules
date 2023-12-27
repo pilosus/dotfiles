@@ -1,0 +1,18 @@
+[submodule "emacs/.emacs.d"]
+	path = emacs/.emacs.d
+	url = git@github.com:pilosus/dot-emacs.git
+[submodule "clojure/.clojure"]
+	path = clojure/.clojure
+	url = git@github.com:pilosus/dot-clojure.git
+[submodule "bash"]
+	path = bash
+	url = git@github.com:pilosus/dot-bash.git
+[submodule "git"]
+	path = git
+	url = git@github.com:pilosus/dot-git.git
+[submodule "pyenv/.pyenv"]
+	path = pyenv/.pyenv
+	url = https://github.com/pyenv/pyenv.git
+[submodule "newsboat/.newsboat"]
+	path = newsboat/.newsboat
+	url = git@github.com:pilosus/dot-newsboat.git
